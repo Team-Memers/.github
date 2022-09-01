@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to my github organization run by @MemeHoovy (I know the name is bad.)
+
 <!--
 
 **Here are some ideas to get you started:**
