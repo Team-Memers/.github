@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my github organization run by @MemeHoovy (I know the name is bad.)
+Welcome to my github organization run by @MemeHoovy (I know the name is bad, I couldn't think of anything else.)
 
 <!--
 
